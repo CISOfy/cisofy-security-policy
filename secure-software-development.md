@@ -5,6 +5,7 @@ Security is embedded in our products.
 Usage of common technologies:
 * HTTPS
 * GPG signed
+* Vulnerability scanning
 
 
 Repository:
