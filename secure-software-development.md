@@ -19,6 +19,8 @@ sha256 on repositories that only support newer operating systems
 
 ## Software Quality
 
+### Defensive programming
+
 ### Linting
 
 ### Vulnerability checking
