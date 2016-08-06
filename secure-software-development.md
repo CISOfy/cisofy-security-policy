@@ -14,3 +14,10 @@ Repository:
 - Highest possible checksums, unless compatibility is required for still supported operating system versions
 
 sha256 on repositories that only support newer operating systems
+
+
+## Software Quality
+
+### Linting
+
+### Vulnerability checking
