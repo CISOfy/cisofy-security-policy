@@ -7,7 +7,6 @@ Usage of common technologies:
 * GPG signed
 * Vulnerability scanning
 
-
 Repository:
 - Limited access
 - Preference for HTTPS, HTTP as fallback option
@@ -21,6 +20,14 @@ sha256 on repositories that only support newer operating systems
 
 ### Defensive programming
 
+All code written should be written from a defensive standpoint. This means it should properly validate input, and check if a condition is true before using it. So when using a file, first determine if the file is really there.
+
 ### Linting
+
+Scripts and code should be 'grammar checked' with a linting tool. This reduces errors in code and helps with getting the same code style. By using the same style, we can improve the code quality.
+
+Examples:
+- Python: PEP8
+- Shell: shellcheck
 
 ### Vulnerability checking
