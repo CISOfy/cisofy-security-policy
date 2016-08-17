@@ -1,19 +1,23 @@
 # Secure Software Development
 
-Security is embedded in our products.
+Security is and should be embedded in all of our products and supporting services. This includes the website, our build machines, and software repositories. Users of our software should be able to trust that we took every action to protect our software from any unauthorized changes.
 
-Usage of common technologies:
+## Software Repository:
+
+Usage of common techniques:
 * HTTPS
 * GPG signed
 * Vulnerability scanning
 
-Repository:
+Basic security principles:
 - Limited access
 - Preference for HTTPS, HTTP as fallback option
-- All repositories are signed
+- All repositories are digitally signed
 - Highest possible checksums, unless compatibility is required for still supported operating system versions
 
-sha256 on repositories that only support newer operating systems
+Known limitations:
+- Yum/RPM can't work with newer key types, or subkeys yet
+- CentOS 5 does only support weaker hash
 
 
 ## Software Quality
