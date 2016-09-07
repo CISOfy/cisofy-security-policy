@@ -20,5 +20,9 @@ When possible, limit clients to the last few versions of the TLS protocol. Curre
 ### Ciphers
 See the useful references to create secure configurations. Always mark the configuration with a reference above the ciphers on when the configuration has been created, or last updated. This way others can see if the cipherset needs to be updated.
 
-## Useful references
-https://mozilla.github.io/server-side-tls/ssl-config-generator/
+### Content Security Protocol (CSP)
+Although not required yet, all of our websites and web-based products are expected to be configured with CSP.
+
+## Tooling
+[Mozilla SSL configuration generator ](https://mozilla.github.io/server-side-tls/ssl-config-generator/)
+[Mozilla Observatory - Test website security](https://observatory.mozilla.org/)
