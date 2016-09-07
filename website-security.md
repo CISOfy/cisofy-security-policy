@@ -24,5 +24,7 @@ See the useful references to create secure configurations. Always mark the confi
 Although not required yet, all of our websites and web-based products are expected to be configured with CSP.
 
 ## Tooling
-[Mozilla SSL configuration generator ](https://mozilla.github.io/server-side-tls/ssl-config-generator/)
-[Mozilla Observatory - Test website security](https://observatory.mozilla.org/)
+As part of ongoing security testing, here are some of the tools that we use, besides the internal ones.
+
+* [Mozilla SSL configuration generator ](https://mozilla.github.io/server-side-tls/ssl-config-generator/)
+* [Mozilla Observatory - Test website security](https://observatory.mozilla.org/)
