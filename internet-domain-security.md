@@ -1,10 +1,9 @@
-* Internet Domain Security
+# Internet Domain Security
 
+## Tools
 
-
-*** Client
+### Client
 [Test DNS resolving on client](https://cmdns.dev.dns-oarc.net/])
-** Tools
 
-*** Server
+### Server
 [Check for availability of DNSSEC](http://viewdns.info/dnssec/?domain=cisofy.com)
