@@ -1,7 +1,7 @@
 # CISOfy Security Policy
 
 ## Goal of this policy
-This set of documents form the security policy of CISOfy. All of our employees and contractors should adhere to this formally approved policy. Exceptions are only possible when approved by the CISOfy management, and documented as such.
+This set of documents form the security policy of [CISOfy](https://cisofy.com). All of our employees and contractors should adhere to this formally approved policy. Exceptions are only possible when approved by the CISOfy management, and documented as such.
 
 ## Transparancy
 As a company doing open source, we want to provide maximum transparancy about our activities and share them.
