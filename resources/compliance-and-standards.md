@@ -2,7 +2,8 @@
 
 ## HIPAA
 
-## ISO27001
+## ISO27001 and ISO27002
+This generic ISO standard consists of two parts. The first one is the standard, the second defines many security controls that can be applied. For most organizations this is a valuable set of documents, to help with security management.
 
 ## PCI DSS
 
