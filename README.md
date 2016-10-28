@@ -13,4 +13,4 @@ As a company doing open source, we want to provide maximum transparancy about ou
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
 
-Last reviewed: August 2016 by Michael Boelen
+Last reviewed: October 2016 by Michael Boelen
