@@ -8,4 +8,6 @@ A hardening guide can be a great resource to learn what is possible for a partic
 
 ### Ubuntu
 
+Ubuntu is a Linux distribution that was based on Debian (and still is in some areas). It was commonly used on desktops and with its long-term support (LTS) versions it became a popular choice on the server. For this reason we created a guide that provides insights in system hardening on Ubuntu server. After all, some small changes can make it much more secure.
+
 [Ubuntu Server Hardening Guide: Quick and Secure](https://linux-audit.com/ubuntu-server-hardening-guide-quick-and-secure/)
