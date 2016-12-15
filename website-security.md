@@ -5,11 +5,15 @@ Used technologies
 - HTST
 
 ## Configuration
+
 ### HTTP protocol
 Where possible, servers need to be configured to allow HTTP1.1 and HTTP2. Using the latter indirectly forces to use HTTPS, which is the preferred way of deploying any service provided by our company.
 
 ### HTTPS only
 All websites and intranet sites that contain confidential or sensitive data, will be HTTPS-only. The server configuration is allowed to listen to port 80 and redirect visitors to the secured protocol version.
+
+#### Tooling
+* [Facebook Certificate Transparency Monitoring](https://developers.facebook.com/tools/ct/) - Monitoring of certificates
 
 ### SSL version
 Old protocol versions of SSL (SSLv2 and SSLv3) are no longer allowed, as they are considered insecure.
@@ -20,12 +24,12 @@ When possible, limit clients to the last few versions of the TLS protocol. Curre
 ### Ciphers
 See the useful references to create secure configurations. Always mark the configuration with a reference above the ciphers on when the configuration has been created, or last updated. This way others can see if the cipherset needs to be updated.
 
+#### Tooling
+* [Mozilla SSL configuration generator ](https://mozilla.github.io/server-side-tls/ssl-config-generator/)
+* [Mozilla Observatory - Test website security](https://observatory.mozilla.org/)
+
 ### Content Security Protocol (CSP)
 Although not required yet, all of our websites and web-based products are expected to be configured with CSP.
 
-## Tooling
-As part of ongoing security testing, here are some of the tools that we use, besides the internal ones.
-
-* [Mozilla SSL configuration generator ](https://mozilla.github.io/server-side-tls/ssl-config-generator/)
-* [Mozilla Observatory - Test website security](https://observatory.mozilla.org/)
+#### Tooling
 * [Google CSP Evaluator](https://csp-evaluator.withgoogle.com/)
