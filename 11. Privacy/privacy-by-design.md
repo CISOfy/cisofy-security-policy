@@ -6,4 +6,6 @@ From a commercial point of view, companies like to store more and more informati
 
 ## Other resources
 
+* [GDPR](https://github.com/CISOfy/cisofy-security-policy/blob/master/10.%20Regulations%20and%20Compliance/GDPR.md)
 * [Privacy policy](https://cisofy.com/privacy/)
+
