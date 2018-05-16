@@ -16,4 +16,4 @@ This security policy applies to our company CISOfy. It also applies to our servi
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
 
-Last reviewed: March 2018 by CEO Michael Boelen
+Last reviewed: May 2018 by CEO Michael Boelen
