@@ -1,6 +1,6 @@
 # TransIP
 
-TransIP is one of the cloud service providers we use for hosting our services.
+TransIP is one of the cloud service providers we use for hosting. This includes our SaaS offering of Lynis Enterprise and supporting systems. The related data center services for TransIP are provided by The Datacenter Group.
 
 Details: https://www.thedatacentergroup.nl/certificeringen/
 
