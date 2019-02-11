@@ -34,4 +34,17 @@ Examples:
 - Python: PEP8
 - Shell: shellcheck
 
+#### Python
+
+For projects using Python code, the following tools are suggested:
+- pep8 (PEP 8 linting)
+- flake8 (included McCabe complexity testing)
+- pylint (covers parts of flake8 and more strict testing)
+- coverage
+- pydocstyle (docstring style checker, PEP 257)
+- doc8
+- mypy (static type checker)
+
+`pip install pylint pep8 coverage mypy flake8 pydocstyle doc8`
+
 ### Vulnerability checking
