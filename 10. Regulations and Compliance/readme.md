@@ -1,4 +1,8 @@
-# Security Compliance and Standards
+# Regulations and Compliance
+
+## GDPR
+* [GDPR Compliance: Technical Requirements for Linux Systems](https://linux-audit.com/gdpr-compliance-technical-requirements-for-linux-systems/)
+* [How we deal with GDPR](https://github.com/CISOfy/cisofy-security-policy/blob/master/10.%20Regulations%20and%20Compliance/GDPR.md)
 
 ## HIPAA
 
